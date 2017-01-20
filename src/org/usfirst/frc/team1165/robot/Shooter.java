@@ -27,7 +27,6 @@ public class Shooter extends Subsystem
 		shooterWheel.setI(0.01);
 		shooterWheel.setD(0.75);
 		shooterWheel.setCloseLoopRampRate(0.01);
-	
 	}
 	
 	public void enableShooter()
